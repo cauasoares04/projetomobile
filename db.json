@@ -1,0 +1,40 @@
+{
+  "hortfruit": [
+    {
+      "id": 2,
+      "fruta": "Abacaxi",
+      "valor": "R$ 5,56",
+      "foto": "/assets/abacaxi.jpg"
+    },
+    {
+      "id": 3,
+      "fruta": "Banana",
+      "valor": "R$ 5,78",
+      "foto": "/assets/banana.jpg"
+    },
+    {
+      "id": 4,
+      "fruta": "Kiwi",
+      "valor": "R$ 19,71",
+      "foto": "/assets/kiwi.jpg"
+    },
+    {
+      "id": 5,
+      "fruta": "Morango",
+      "valor": "R$ 20,59",
+      "foto": "/assets/morango.jpg"
+    },
+    {
+      "id": 6,
+      "fruta": "Abacaxi",
+      "valor": "R$ 5,56",
+      "foto": "/assets/abacaxi.jpg"
+    },
+    {
+      "id": 7,
+      "fruta": "Abacate",
+      "valor": "R$ 7,89",
+      "foto": "/assets/abacaxi.jpg"
+    }
+  ]
+}
